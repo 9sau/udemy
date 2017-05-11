@@ -24,6 +24,6 @@
         "express": "*",
         "body-parser": "*",
         "jade": "*",
-        "node-mailer": "*"
+        "nodemailer": "*"
     }
 }
