@@ -1,0 +1,26 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "This is simple web server using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9sau/udemy.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "server",
+    "simple",
+    "web"
+  ],
+  "author": "Saurabh Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9sau/udemy/issues"
+  },
+  "homepage": "https://github.com/9sau/udemy#readme"
+}
